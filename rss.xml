@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>-illuminesce glass art-</title>
+  <description>illuminesce glass art | ガラスアート、オブジェ、など。</description>
+  <link>https://glassart.neocities.org</link>
+  <lastBuildDate>
+    Tue, 16 Jul 2024 09:58:22 +0000 
+  </lastBuildDate>
+  <ttl>20000</ttl>
+
+    <item>
+        <title>New glass solo exhibit: Dinosaur Town in Koenji</title>
+        <description>
+              I'll be showing my glass art at Potter Café in Koenji, with all of the dinosaurs I've made until now. I hope you enjoy!
+        </description>
+        <link>https://glassart.neocities.org/</link>
+        <enclosure url="https://glassart.neocities.org/images/glassart_sizzle.jpg"
+    length="78645" type="image/png" />
+        <pubDate>
+            Tue, 16 Jul 2024 09:58:22 +0000 
+        </pubDate>
+    </item>
+    
+    <item>
+        <title>My first glass show at SARAU TOKYO</title>
+        <description>
+              On March 16th, I had my first glass art show at the queer art event SARAU TOKYO in Roppongi. Photos and more in the link.
+        </description>
+        <link>https://chostett.com/blog/posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html</link>
+        <enclosure url="https://chostett.com/blog/posts/images/sarau_01.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Mon, 15 Apr 2024 06:30:15 +0000
+        </pubDate>
+    </item>
+    
+    <item>
+        <title>Shopリンクを追加した</title>
+        <description>
+              Shopリンクを追加した。Added shop link.
+        </description>
+        <link>https://minne.com/@illuminesce</link>
+        <pubDate>
+            Fri, 15 Mar 2024 06:53:18 +0000
+        </pubDate>
+    </item>
+    
+    <item>
+        <title>サイトを作成</title>
+        <description>
+              サイトを作成しました。
+        </description>
+        <link>https://glassart.neocities.org</link>
+        <pubDate>
+            Sun, 10 Mar 2024 13:27:58 +0000
+        </pubDate>
+    </item>
+
+</channel>
+</rss>
